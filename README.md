@@ -22,7 +22,3 @@ Quick links
 
 Open to collaboration / Available for hire
 - I'm open to collaborating on backend/API projects and short-term contract work — reach out via email.
-
-Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Schamgar45&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schamgar45&layout=compact&theme=transparent)
